@@ -1,0 +1,13 @@
+com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/repository/JpaProductRepositoryAdapter.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/entity/ProductEntity.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/web/dto/ProductResponse.class
+com/example/haxagonal/hexagonal_basico/product/domain/ports/in/GetAllProductsUseCase.class
+com/example/haxagonal/hexagonal_basico/product/domain/ports/out/ProductRepository.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/web/dto/ProductRequest.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/web/mapper/ProductDtoMapper.class
+com/example/haxagonal/hexagonal_basico/product/application/service/ProductService.class
+com/example/haxagonal/hexagonal_basico/product/domain/ports/in/CreateProductUseCase.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/web/controller/ProductController.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/mapper/ProductMapper.class
+com/example/haxagonal/hexagonal_basico/product/domain/model/Product.class
+com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/repository/JpaProductRepository.class
